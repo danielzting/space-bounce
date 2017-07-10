@@ -47,3 +47,7 @@ Thank you to the following people for making this game possible:
 * Punch: SoundChips (https://www.youtube.com/channel/UC4q7EuBl8lwIMTqBBABBQsg)
 * Dizzy birds chirping: Nick Judy (https://www.youtube.com/channel/UC1G-yh8Xvv1cMxzR_PUQlpw)
 * Countdown beeps: ThompsonMan at freesound.org
+
+## Known Issues
+* Map preview slightly shifts when map is selected
+* Minimizing and restoring may cause the display to turn blue
